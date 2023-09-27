@@ -1,6 +1,7 @@
 ---
 front_matter:
   is_ignored: true
+  need_to_use_spaces: yes, not tabs
 ---
 
 # I can still add my own titles I guess.
