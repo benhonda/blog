@@ -1,6 +1,6 @@
 ---
 front_matter:
-	is_ignored: true
+  is_ignored: true
 ---
 
 # I can still add my own titles I guess.
