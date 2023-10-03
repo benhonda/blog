@@ -1,0 +1,3 @@
+# Do I need an Elastic IP address for my EC2 instance?
+
+Elastic IP allows you to keep the same IP address and attach it to whatever EC2 instance you want - that is - we have a single IP address that never changes. We can terminate a server and start up another one and keep the same IP address - without an Elastic IP each instance would get its own unique IP upon creation. So do you need it? No - in fact some say [don’t use it unless you need it](https://www.youtube.com/watch?v=UAdlVht4Xlw) - but it’s free, provided it is attached to a single running EC2 instance - learn more [here](https://repost.aws/knowledge-center/elastic-ip-charges).

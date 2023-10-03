@@ -18,4 +18,8 @@
 #video #docker #docker_swarm #terraform
 [Building a production-ready fully-scalable Docker Swarm using Terraform & Packer on OpenStack (2023)](https://www.youtube.com/watch?v=xizSHwi6laM)
 
+#article #testing
+[How to Think About Writing Tests (2021)](https://blog.alexqua.ch/posts/how-to-think-about-writing-tests/)
+
+
 

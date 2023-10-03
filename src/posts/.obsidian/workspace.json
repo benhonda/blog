@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/what-i-want-in-devops/index.md",
+                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ce0c3c5716a491b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Articles/what-i-want-in-devops/Infra diagram.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Articles/what-i-want-in-devops/Infra diagram.md",
+                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Articles/what-i-want-in-devops/Infra diagram.md",
+                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/what-i-want-in-devops/Infra diagram.md"
+                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md"
               }
             }
           },
@@ -200,53 +190,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ce0c3c5716a491b",
+  "active": "e3d61f952976b35b",
   "lastOpenFiles": [
-    "Resources/Resources.md",
-    "Articles/what-i-want-in-devops/ci-cd diagram.md",
-    "Articles/what-i-want-in-devops/Infra diagram.md",
+    "Q+A/0032 Is EBS Suitable for SQLite?/staging.md",
+    "Q+A/0032 What are the different EC2 instance types?/dev.md",
+    "Q+A/0031 Do you have to use EBS with EC2?/staging.md",
     "Articles/what-i-want-in-devops/index.md",
+    "Resources/Resources.md",
+    "Q+A/0029 Is it better to run Nginx directly on my Docker host or in a container (multi-app-single-server architecture)?/dev.md",
+    "Q+A/0030 Do I need container orchestration tools like K8s and Docker Swarm if I’m running on one box?",
+    "Q+A/0028 Do I need an Elastic IP address for my EC2 instance?/dev.md",
+    "Q+A/0029 Is it better to run Nginx directly on my Docker host or in a container (multi-app-single-server architecture)?",
+    "Q+A/0027 Storage in Docker containers - how does it all work?/dev.md",
+    "Q+A/0028 Do I need an Elastic IP address for my EC2 instance?",
+    "Q+A/0027 Storage in Docker containers - how does it all work?/Screen Shot 2023-10-03 at 10.05.43 AM.png",
+    "Q+A/0027 Storage in Docker containers - how does it all work?/Screen Shot 2023-10-03 at 10.05.29 AM.png",
+    "Q+A/0027 Storage in Docker containers - how does it all work?/Screen Shot 2023-10-03 at 10.05.10 AM.png",
+    "Q+A/0027 Storage in Docker containers - how does it all work?/Screen Shot 2023-10-03 at 10.04.54 AM.png",
+    "Q+A/0025 Sharing SQLite across Docker containers - is it realistic and why the hell would you do that?/dev.md",
+    "Q+A/0027 Storage in Docker containers - how does it all work?",
+    "Q+A/0026 When is it time to start orchestrating your Docker containers on Kubernetes?",
+    "Q+A/0025 Sharing SQLite across Docker containers - is it realistic and why the hell would you do that?/Screen Shot 2023-10-03 at 10.03.12 AM.png",
+    "Q+A/0024 Are Docker containers just Virtual Machines?/dev.md",
+    "Q+A/0025 Sharing SQLite across Docker containers - is it realistic and why the hell would you do that?",
+    "Q+A/0024 Are Docker containers just Virtual Machines?/Screen Shot 2023-10-03 at 10.02.29 AM.png",
+    "Q+A/0020 What are the disadvantages to running an app on a single instance?/staging.md",
+    "Q+A/0024 Are Docker containers just Virtual Machines?",
+    "Q+A/0023 How do you be 100% sure that no code is overwritten when multiple devs are merging to main?",
+    "Q+A/0022 What are the limits of Burstable EC2 instances?",
+    "Q+A/0021 What is the optimal level of CPU utilization to hangout at?",
+    "Q+A/0019 What’s the point of running your app at edge if your database isn’t there also?/dev.md",
+    "Q+A/0015 Can I run a serverless database with a serverless application?/dev.md",
+    "Q+A/0014 How is Amazon EBS affected by installing dependencies inside my EC2 instance with something like pip install or npm install?/dev.md",
+    "Q+A/0013 Do I do less maintenance on my EC2 instances if I run all my apps in Docker containers?/dev.md",
+    "Q+A/0012 Are there disadvantages to running your web app in a docker container on EC2 instead of with a startup script?/dev.md",
+    "Q+A/0011 Under the hood, what is a Fargate task?/dev.md",
+    "Q+A/0010 How do web apps work on serverless infrastructure?/dev.md",
+    "Q+A/0009 How do you serve the front end in a CDN, and the backend in a server or server less?/dev.md",
+    "Q+A/0007 Can I host a React SPA on S3?/dev.md",
+    "Q+A/0006 How do you scale SQLite horizontally?/dev.md",
+    "Q+A/0005 Can SQLite scale? Should I use SQLite for my web app?/dev.md",
+    "Q+A/0004 What the hell is even a serverless?/dev.md",
+    "Q+A/0003 Can you use AWS Elastic File System (EFS) to host SQLite for your serverless app?/dev.md",
+    "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/dev.md",
+    "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/Screen Shot 2023-10-03 at 9.40.49 AM.png",
+    "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/Screen Shot 2023-10-03 at 9.40.04 AM.png",
+    "Q+A/0001 when is ECS fargate cheaper than ECS EC2?/dev.md",
     "Articles/what-i-want-in-devops/Pasted Image 20231002150648_342.png",
-    "Q+A/016 is SQLite suitable for EBS?/staging.md",
-    "Q+A/017 what is a storage area network (SAN)?",
-    "Resources/ToDO.md",
-    "_private/README.md",
-    "Q+A/014 do-you-have-to-use-ebs-with-ec2/staging.md",
-    "Resources",
-    "Q+A/015 what-are-the-different-ec2-types/dev.md",
-    "Q+A/016 is SQLite suitable for EBS?",
-    "Q+A/how-does-alb-and-asg-work-together/dev.md",
-    "Q+A/Untitled/Untitled.md",
-    "Context/spacesLastSync.log",
-    "Context",
-    "sortspec.md",
-    "Q+A/whats-the-difference-between-nginx-and-alb/staging.md",
-    "Q+A/015 what-are-the-different-ec2-types",
-    "Q+A/whats-the-difference-between-alb-and-nlb/dev.md",
-    "Q+A/load-balancing-with-k8s-or-swarm-versus-alb/index.md",
-    "_private/the-great-k8s-debate/do-you-want-kubernetes.jpg",
-    "_private/the-great-k8s-debate/dev.md",
-    "_private/what-is-a-network/index.md",
-    "Q+A/what-does-high-availability-look-like/dev.md",
-    "Q+A/is-a-load-balancer-a-reverse-proxy/dev.md",
-    "Q+A/how-does-docker-swarm-handle-traffic/dev.md",
-    "Q+A/when-do-you-need-to-use-aws-application-load-balancer/dev.md",
-    "Q+A/how-does-docker-swarm-handle-traffic",
-    "Q+A/when is ALB a better choice that API Gateway/dev.md",
-    "Q+A/whats-the-difference-between-layer-4-and-layer-7-load-balancers/staging.md",
-    "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
-    "Q+A/014 do-you-have-to-use-ebs-with-ec2",
-    "Articles/how-to-think-about-cloud-formation-vs-cdk/index.md",
-    "Q+A/aws-what-does-spot-mean-in-aws-land/dev.md",
-    "Q+A/aws-are-spot-instances-right-for-web-apps",
-    "Q+A/aws-what-does-spot-mean-in-aws-land",
-    "Q+A/whats-the-difference-between-alb-and-nlb/Screen Shot 2023-09-29 at 3.35.48 PM.png",
-    "_private/what-is-a-network/networks.png.png",
-    "Articles/how to think about application load balancer vs api gateway/Pasted Image 20230928191021_142.png",
-    "Articles/how to think about application load balancer vs api gateway/Pasted Image 20230928190850_113.png",
-    "_private/what-is-a-network/Screen Shot 2023-09-28 at 2.23.11 PM.png",
-    "_private/what-is-a-network/Screen Shot 2023-09-28 at 3.20.38 PM.png",
-    "_private/what-is-a-network/Screen Shot 2023-09-28 at 2.28.46 PM.png",
-    "Articles/how-to-think-about-cloud-formation-vs-cdk/Screen Shot 2023-09-27 at 9.24.13 PM.png"
+    "_private/the-great-k8s-debate/do-you-want-kubernetes.jpg"
   ]
 }
