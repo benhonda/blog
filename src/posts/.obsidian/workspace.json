@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q+A/whats-the-difference-between-layer-4-and-layer-7-load-balancers/staging.md",
+                "file": "Q+A/0037 What's the difference between a Layer 7 and Layer 4 load balancer?/staging.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q+A/how-does-alb-and-asg-work-together/dev.md",
+                "file": "Q+A/0032 How does Application Load Balancer and Auto Scaling Group work together?/dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
+                "file": "Q+A/0042 How do you handle incoming traffic with Docker Swarm?/dev.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
+                "file": "Q+A/0042 How do you handle incoming traffic with Docker Swarm?/dev.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
+                "file": "Q+A/0042 How do you handle incoming traffic with Docker Swarm?/dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md"
+                "file": "Q+A/0042 How do you handle incoming traffic with Docker Swarm?/dev.md"
               }
             }
           },
@@ -190,10 +190,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3d61f952976b35b",
+  "active": "fb1bbfd8d99ecf37",
   "lastOpenFiles": [
-    "Q+A/0032 Is EBS Suitable for SQLite?/staging.md",
-    "Q+A/0032 What are the different EC2 instance types?/dev.md",
+    "Q+A/0041 What does high availability (HA) look like?/dev.md",
+    "Q+A/0040 When is ALB a better choice that API Gateway/dev.md",
+    "Q+A/0039 When do you use the AWS Application Load Balancer?/dev.md",
+    "Q+A/0038 What's the difference between NGINX and ALB?/staging.md",
+    "Q+A/0037 What's the difference between a Layer 7 and Layer 4 load balancer?/staging.md",
+    "Q+A/0036 What's the difference between AWS' Application Load Balancer and Network Load Balancer?/dev.md",
+    "Q+A/0035 Load balancing with K8s vs Swarm vs ALB/index.md",
+    "Q+A/0034 Is a load balancer a reverse proxy?/dev.md",
+    "Q+A/0033 In networking, does a load balancer ALWAYS balance load between services that do the exact same thing?/staging.md",
+    "Q+A/0042 How do you handle incoming traffic with Docker Swarm?/dev.md",
+    "Q+A/0032 How does Application Load Balancer and Auto Scaling Group work together?/dev.md",
+    "Q+A/0043 What does \"Spot\" mean in AWS land?/dev.md",
+    "Q+A/0044 Are Spot instances right for web applications?/dev.md",
+    "Q+A/0045 Is EBS Suitable for SQLite?/staging.md",
+    "Q+A/0046 What are the different EC2 instance types?/dev.md",
     "Q+A/0031 Do you have to use EBS with EC2?/staging.md",
     "Articles/what-i-want-in-devops/index.md",
     "Resources/Resources.md",
@@ -221,21 +234,8 @@
     "Q+A/0021 What is the optimal level of CPU utilization to hangout at?",
     "Q+A/0019 What’s the point of running your app at edge if your database isn’t there also?/dev.md",
     "Q+A/0015 Can I run a serverless database with a serverless application?/dev.md",
-    "Q+A/0014 How is Amazon EBS affected by installing dependencies inside my EC2 instance with something like pip install or npm install?/dev.md",
-    "Q+A/0013 Do I do less maintenance on my EC2 instances if I run all my apps in Docker containers?/dev.md",
-    "Q+A/0012 Are there disadvantages to running your web app in a docker container on EC2 instead of with a startup script?/dev.md",
-    "Q+A/0011 Under the hood, what is a Fargate task?/dev.md",
-    "Q+A/0010 How do web apps work on serverless infrastructure?/dev.md",
-    "Q+A/0009 How do you serve the front end in a CDN, and the backend in a server or server less?/dev.md",
-    "Q+A/0007 Can I host a React SPA on S3?/dev.md",
-    "Q+A/0006 How do you scale SQLite horizontally?/dev.md",
-    "Q+A/0005 Can SQLite scale? Should I use SQLite for my web app?/dev.md",
-    "Q+A/0004 What the hell is even a serverless?/dev.md",
-    "Q+A/0003 Can you use AWS Elastic File System (EFS) to host SQLite for your serverless app?/dev.md",
-    "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/dev.md",
     "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/Screen Shot 2023-10-03 at 9.40.49 AM.png",
     "Q+A/0002 what is the N+1 problem and why is SQLite immune to it?/Screen Shot 2023-10-03 at 9.40.04 AM.png",
-    "Q+A/0001 when is ECS fargate cheaper than ECS EC2?/dev.md",
     "Articles/what-i-want-in-devops/Pasted Image 20231002150648_342.png",
     "_private/the-great-k8s-debate/do-you-want-kubernetes.jpg"
   ]

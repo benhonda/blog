@@ -18,4 +18,4 @@ In my view, however, the load balancing doesn't occur until *after* the L7 load 
 
 In this example, the requests bound for the App1 server are not even technically being load balanced at all. In fact, from the clients perspective, you could say that the load balancer is just acting as a reverse proxy for the App1 server. 
 
-Now, you might be wondering; [is a load balancer just a reverse proxy?](Q+A/is-a-load-balancer-a-reverse-proxy/dev.md)
+Now, you might be wondering; [is a load balancer just a reverse proxy?](Q+A/0034%20Is%20a%20load%20balancer%20a%20reverse%20proxy?/dev.md)

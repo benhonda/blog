@@ -6,7 +6,7 @@ tags:
 ---
 # Are Spot instances right for web applications?
 
-[What does "Spot" mean?](Q+A/aws-what-does-spot-mean-in-aws-land/dev.md)
+[What does "Spot" mean?](Q+A/0043%20What%20does%20"Spot"%20mean%20in%20AWS%20land?/dev.md)
 
 Maybe...
 

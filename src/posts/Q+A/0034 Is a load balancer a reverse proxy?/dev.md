@@ -38,5 +38,5 @@ In this situation, the customer is the client, the cashier is the load balancer 
 
 But do all the services have to be the same????????????
 
-See [In networking, does a load balancer ALWAYS balance load between services that do the exact same thing?](Q+A/in-load-balancing-are-all-recipients-the-same/staging.md)
+See [In networking, does a load balancer ALWAYS balance load between services that do the exact same thing?](Q+A/0033%20In%20networking,%20does%20a%20load%20balancer%20ALWAYS%20balance%20load%20between%20services%20that%20do%20the%20exact%20same%20thing?/staging.md)
 
