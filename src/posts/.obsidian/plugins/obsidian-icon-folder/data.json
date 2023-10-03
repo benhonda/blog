@@ -1,0 +1,92 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarFolderOpen"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "diagram",
+        "icon": "FarObjectUngroup",
+        "for": "files",
+        "order": 0,
+        "color": "#454545"
+      },
+      {
+        "rule": "draw",
+        "icon": "FarObjectUngroup",
+        "for": "files",
+        "order": 1,
+        "color": "#454545"
+      },
+      {
+        "rule": "Diagr",
+        "icon": "FarObjectUngroup",
+        "for": "files",
+        "order": 2,
+        "color": "#454545"
+      },
+      {
+        "rule": "jpg",
+        "icon": "FarImage",
+        "for": "files",
+        "order": 4,
+        "color": "#454545"
+      },
+      {
+        "rule": "png",
+        "icon": "FarImage",
+        "for": "files",
+        "order": 3,
+        "color": "#454545"
+      },
+      {
+        "rule": "staging",
+        "icon": "FarEye",
+        "for": "files",
+        "order": 6,
+        "color": "#8a9400"
+      },
+      {
+        "rule": "prod",
+        "icon": "FarCalendarCheck",
+        "for": "files",
+        "order": 6,
+        "color": "#348d56"
+      },
+      {
+        "rule": "dev",
+        "icon": "FarCircleDot",
+        "for": "files",
+        "order": 7,
+        "color": "#7d8000"
+      },
+      {
+        "rule": ".",
+        "icon": "FarFolderOpen",
+        "for": "folders",
+        "order": 9,
+        "color": "#2d5d8b"
+      },
+      {
+        "rule": ".",
+        "icon": "FarFile",
+        "for": "files",
+        "order": 9,
+        "color": "#454545"
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  }
+}

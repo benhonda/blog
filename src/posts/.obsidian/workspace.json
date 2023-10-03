@@ -4,35 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "f58e179ecd682396",
+        "id": "8659a9931db9abe5",
         "type": "tabs",
         "children": [
           {
-            "id": "024ffcbd1cfd53c7",
+            "id": "b8992ff770589a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what-i-want.md",
+                "file": "Q+A/whats-the-difference-between-layer-4-and-layer-7-load-balancers/staging.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef881d00635c8877",
+            "id": "bed70348a5a37207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "what-i-want.md",
+                "file": "Q+A/how-does-alb-and-asg-work-together/dev.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3d61f952976b35b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/what-i-want-in-devops/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ce0c3c5716a491b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Articles/what-i-want-in-devops/Infra diagram.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sqlite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +99,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ae6324ef0ad9e4cd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.51103591918945
   },
   "right": {
     "id": "60546dfe508ff6cb",
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what-i-want.md",
+                "file": "Articles/what-i-want-in-devops/Infra diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +145,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "what-i-want.md",
+                "file": "Articles/what-i-want-in-devops/Infra diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d522f32ce3bdb4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Articles/what-i-want-in-devops/Infra diagram.md"
               }
             }
           },
@@ -133,16 +173,15 @@
             }
           },
           {
-            "id": "1d522f32ce3bdb4f",
+            "id": "a2c7c831acfaca56",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "what-i-want.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,12 +195,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ef881d00635c8877",
+  "active": "8ce0c3c5716a491b",
   "lastOpenFiles": [
-    "another-md-file.md",
-    "what-i-want.md"
+    "Resources/Resources.md",
+    "Articles/what-i-want-in-devops/ci-cd diagram.md",
+    "Articles/what-i-want-in-devops/Infra diagram.md",
+    "Articles/what-i-want-in-devops/index.md",
+    "Articles/what-i-want-in-devops/Pasted Image 20231002150648_342.png",
+    "Q+A/016 is SQLite suitable for EBS?/staging.md",
+    "Q+A/017 what is a storage area network (SAN)?",
+    "Resources/ToDO.md",
+    "_private/README.md",
+    "Q+A/014 do-you-have-to-use-ebs-with-ec2/staging.md",
+    "Resources",
+    "Q+A/015 what-are-the-different-ec2-types/dev.md",
+    "Q+A/016 is SQLite suitable for EBS?",
+    "Q+A/how-does-alb-and-asg-work-together/dev.md",
+    "Q+A/Untitled/Untitled.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "sortspec.md",
+    "Q+A/whats-the-difference-between-nginx-and-alb/staging.md",
+    "Q+A/015 what-are-the-different-ec2-types",
+    "Q+A/whats-the-difference-between-alb-and-nlb/dev.md",
+    "Q+A/load-balancing-with-k8s-or-swarm-versus-alb/index.md",
+    "_private/the-great-k8s-debate/do-you-want-kubernetes.jpg",
+    "_private/the-great-k8s-debate/dev.md",
+    "_private/what-is-a-network/index.md",
+    "Q+A/what-does-high-availability-look-like/dev.md",
+    "Q+A/is-a-load-balancer-a-reverse-proxy/dev.md",
+    "Q+A/how-does-docker-swarm-handle-traffic/dev.md",
+    "Q+A/when-do-you-need-to-use-aws-application-load-balancer/dev.md",
+    "Q+A/how-does-docker-swarm-handle-traffic",
+    "Q+A/when is ALB a better choice that API Gateway/dev.md",
+    "Q+A/whats-the-difference-between-layer-4-and-layer-7-load-balancers/staging.md",
+    "Q+A/aws-are-spot-instances-right-for-web-apps/dev.md",
+    "Q+A/014 do-you-have-to-use-ebs-with-ec2",
+    "Articles/how-to-think-about-cloud-formation-vs-cdk/index.md",
+    "Q+A/aws-what-does-spot-mean-in-aws-land/dev.md",
+    "Q+A/aws-are-spot-instances-right-for-web-apps",
+    "Q+A/aws-what-does-spot-mean-in-aws-land",
+    "Q+A/whats-the-difference-between-alb-and-nlb/Screen Shot 2023-09-29 at 3.35.48 PM.png",
+    "_private/what-is-a-network/networks.png.png",
+    "Articles/how to think about application load balancer vs api gateway/Pasted Image 20230928191021_142.png",
+    "Articles/how to think about application load balancer vs api gateway/Pasted Image 20230928190850_113.png",
+    "_private/what-is-a-network/Screen Shot 2023-09-28 at 2.23.11 PM.png",
+    "_private/what-is-a-network/Screen Shot 2023-09-28 at 3.20.38 PM.png",
+    "_private/what-is-a-network/Screen Shot 2023-09-28 at 2.28.46 PM.png",
+    "Articles/how-to-think-about-cloud-formation-vs-cdk/Screen Shot 2023-09-27 at 9.24.13 PM.png"
   ]
 }
